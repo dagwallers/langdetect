@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#pwd
+#export PKG_CONFIG_PATH=/home/jovyan/CyHunspell-1.2.1
+#cd CyHunspell-1.2.1
+#python ./setup.py install
+conda install -c conda-forge hunspell
