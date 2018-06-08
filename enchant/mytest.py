@@ -1,2 +1,0 @@
-def myprint():
-    print 'eccolo'
