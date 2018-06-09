@@ -2,3 +2,4 @@ nltk==3.2.4
 numpy==1.13.3
 cytoolz==0.8.2
 prettyprint==0.1.5
+readline==6.2
