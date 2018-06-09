@@ -6,5 +6,6 @@ dependencies:
   - nltk
   - numpy
   - cytoolz
-  - prettyprint
   - hunspell
+  - pip:
+    - prettyprint
