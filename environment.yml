@@ -2,7 +2,7 @@ name: langdetect-environment
 channels:
   - conda-forge
 dependencies:
-  - python
+  - python=2.7
   - nltk
   - numpy
   - cytoolz
