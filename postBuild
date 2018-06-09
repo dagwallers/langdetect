@@ -7,5 +7,7 @@
 #conda install readline=6.2 --force --yes
 source activate kernel
 conda install readline=6.2 --force --yes
-conda install  -c conda-forge hunspell --force --yes
+cd CyHunspell-1.2.1
+python2 ./setup.py install
+#conda install  -c conda-forge hunspell --force --yes
 source deactivate
