@@ -1,0 +1,10 @@
+name: langdetect-environment
+channels:
+  - conda-forge
+dependencies:
+  - python	
+  - nltk
+  - numpy
+  - cytoolz
+  - prettyprint
+  - hunspell
