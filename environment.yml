@@ -7,6 +7,6 @@ dependencies:
   - numpy
   - cytoolz
   - readline=6.2
-  - hunspell
   - pip:
     - prettyprint
+    - langdetect
