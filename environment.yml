@@ -9,4 +9,4 @@ dependencies:
   - readline=6.2
   - pip:
     - prettyprint
-    - langdetect
+    - langdetect==1.0.6
