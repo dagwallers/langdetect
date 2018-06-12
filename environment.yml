@@ -6,5 +6,6 @@ dependencies:
   - nltk
   - numpy
   - cytoolz
+  - langdetect
   - pip:
     - prettyprint
